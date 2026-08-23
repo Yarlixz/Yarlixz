@@ -101,7 +101,7 @@
     <td width="50%" align="center" valign="top">
       <!-- Card do seu repositório principal -->
       <a href="https://github.com/Yarlixz/MatrixSys">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDcwMGdyc2Fncjdka2I0Z3ptM2RkMGhvZjJqbGk4Z2Zya3FwOWg1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" alt="Pinned Repo" width="100%" height="120%"/>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDcwMGdyc2Fncjdka2I0Z3ptM2RkMGhvZjJqbGk4Z2Zya3FwOWg1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" alt="Pinned Repo" width="90%" height="120%"/>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
