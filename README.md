@@ -50,7 +50,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-D32F2F?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=121212" alt="VS Code" />
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-D32F2F?style=for-the-badge&logo=linux&logoColor=white&labelColor=121212" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
