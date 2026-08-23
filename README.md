@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
   <!-- Substitua o link abaixo pela imagem do seu banner ou GIF -->
-  <img src="https://i.pinimg.com/1200x/47/e6/5b/47e65b2a2eac2314fb3bd5ee84e748f9.jpg" alt="Adapting..." width="100%" />
+  <img src="https://i.pinimg.com/1200x/fb/59/6d/fb596dbcdcd9429f44608388da7f0c8d.jpg" alt="Adapting..." width="100%" />
 </div>
 
 <br />
