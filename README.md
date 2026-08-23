@@ -110,5 +110,5 @@
   </tr>
 </table>
 <div align="center">
-  <img src="https://i.pinimg.com/736x/83/c2/b7/83c2b7fe23d181fcdb16770c70c52778.jpg" alt="Adapting..." width="100%" />
+  <img src="https://i.pinimg.com/736x/f7/dd/8c/f7dd8c72989366b5919469a0b98f15c0.jpg" alt="Adapting..." width="100%" />
 </div>
