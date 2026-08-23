@@ -26,7 +26,7 @@
   <tr>
     <td width="35%" align="center" valign="middle">
       <!-- Coloque aqui a URL da sua logo (ex: cartola, seu avatar, gif estilo Persona) -->
-      <img src="https://i.pinimg.com/736x/31/20/93/3120932c0f9454d4b97cd1acf50efe1a.jpg" width="220px" alt="Logo" />
+      <img src="https://i.pinimg.com/736x/31/20/93/3120932c0f9454d4b97cd1acf50efe1a.jpg" width="420px" alt="Logo" />
     </td>
     <td width="65%" valign="top">
       <h2><b>Who Am I?</b></h2>
