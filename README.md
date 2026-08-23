@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
   <!-- Substitua o link abaixo pela imagem do seu banner ou GIF -->
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/main/assets/banner.png" alt="Header Banner Persona 5 Style" width="100%" />
+  <img src="https://i.pinimg.com/736x/3f/8a/c6/3f8ac67863f41435f3a16b41844dd36a.jpg" alt="Cat..." width="100%" />
 </div>
 
 <br />
