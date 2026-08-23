@@ -50,19 +50,19 @@
 </div>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" widght="20px" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-D32F2F?style=for-the-badge&logo=linux&logoColor=white&labelColor=121212" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
+  <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub" />
+  <img src="https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000" alt="Linux" />
+  <img src="https://img.icons8.com/?size=100&id=38389&format=png&color=000000" alt="GIT"/>
   <br>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" alt="FIGMA" />
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" />
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" />
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JS"/>
   <br>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL" />
+  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="PYTHON" />
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" />
 </p>
 
 <br />
