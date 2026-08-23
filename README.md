@@ -100,7 +100,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <!-- Card do seu repositório principal -->
-      <a href="https://github.com/SEU_USUARIO_GITHUB/NOME_DO_SEU_REPOSITORIO_DESTAQUE">
+      <a href="https://github.com/Yarlixz/MatrixSys">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yarlixz&repo=MatrixSys&theme=dark&bg_color=0d1117&border_color=d32f2f&title_color=d32f2f" alt="Pinned Repo" width="100%" />
       </a>
     </td>
