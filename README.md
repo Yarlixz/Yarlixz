@@ -106,7 +106,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <!-- Card com seus dias seguidos codando (Streak Stats) no tema Dark/Red -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yarlixz&theme=dark&background=0d1117&border=d32f2f&stroke=d32f2f&ring=d32f2f&fire=d32f2f&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
+      <img src="https://i.pinimg.com/736x/0c/c2/ab/0cc2abd260fc83392e51906b206d9c80.jpg" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
