@@ -1,43 +1,43 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="URL_DO_SEU_BANNER_HEADER" alt="Edson Developer Banner" width="100%" />
+  <!-- Substitua o link abaixo pela imagem do seu banner ou GIF -->
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/main/assets/banner.png" alt="Header Banner Persona 5 Style" width="100%" />
 </div>
 
 <br />
 
-<!-- BADGES DE ESTATÍSTICAS DO TOPO (Stars, Forks, Followers) -->
+<!-- BADGES DE ESTATÍSTICAS NATIVAS DO GITHUB -->
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO?tab=stars">
-    <img src="https://img.shields.io/badge/STARS-29-red?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
+  <a href="https://github.com/SEU_USUARIO_GITHUB?tab=stars">
+    <img src="https://img.shields.io/github/stars/SEU_USUARIO_GITHUB?style=for-the-badge&color=D32F2F&labelColor=121212&logo=github&logoColor=white" alt="Stars" />
   </a>
-  <a href="https://github.com/SEU_USUARIO?tab=repositories">
-    <img src="https://img.shields.io/badge/FORKS-4-red?style=for-the-badge&logo=github&logoColor=white" alt="Forks" />
+  <a href="https://github.com/SEU_USUARIO_GITHUB?tab=repositories">
+    <img src="https://img.shields.io/github/followers/SEU_USUARIO_GITHUB?style=for-the-badge&color=D32F2F&labelColor=121212&logo=github&logoColor=white" alt="Followers" />
   </a>
-  <a href="https://github.com/SEU_USUARIO?tab=followers">
-    <img src="https://img.shields.io/badge/FOLLOWERS-32-red?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+  <a href="https://github.com/SEU_USUARIO_GITHUB?tab=repositories">
+    <img src="https://img.shields.io/badge/FORKS-PUBLIC-D32F2F?style=for-the-badge&labelColor=121212&logo=github&logoColor=white" alt="Forks" />
   </a>
 </div>
 
 <br />
 
-<!-- SEÇÃO "WHO AM I?" (LOGO/LOGOTIPO + TEXTO AO LADO) -->
-<table border="0" style="width: 100%; border-collapse: collapse;">
+<!-- SEÇÃO APRESENTAÇÃO / WHO AM I? -->
+<table border="0">
   <tr>
-    <!-- Imagem da Cartola / Logo Principal -->
-    <td width="35%" align="center" style="border: none;">
-      <img src="URL_DA_IMAGEM_DA_CARTOLA_LOGO" width="220px" alt="Persona Hat Logo" />
+    <td width="35%" align="center" valign="middle">
+      <!-- Coloque aqui a URL da sua logo (ex: cartola, seu avatar, gif estilo Persona) -->
+      <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/main/assets/logo-hat.png" width="220px" alt="Profile Logo" />
     </td>
-    <!-- Texto de Apresentação -->
-    <td width="65%" style="border: none;">
-      <h3 align="right">Who Am I?</h3>
-      <p align="justify">
-        I am a graduated <b>Software Developer</b> with a degree in <b>Systems Analysis and Development</b>, currently working as a freelancer while actively seeking an opportunity in the technology field. My professional journey is driven by continuous learning, practical experience, and a strong commitment to delivering complete and functional systems for real-world needs.
+    <td width="65%" valign="top">
+      <h2><b>Who Am I?</b></h2>
+      <p>
+        Olá! Sou um <b>Desenvolvedor de Software</b> formado em <b>Análise e Desenvolvimento de Sistemas</b>, atuando como freelancer e constantemente buscando novos aprendizados no ecossistema de tecnologia.
       </p>
-      <p align="justify">
-        Over time, I have developed solid experience across the <b>web development ecosystem</b>, with a strong passion for <b>Front-End Development</b>, where logic meets creativity and visual design. Alongside web technologies, I have expanded my skills into mobile development, focusing on building modern applications using <b>Android Studio</b> and <b>React Native</b>.
+      <p>
+        Tenho forte atuação no ecossistema <b>Web & Front-End</b>, focando em criar interfaces modernas, intuitivas e performáticas. Também desenvolvo aplicações mobile para Android utilizando <b>React Native</b> e <b>Android Studio</b>.
       </p>
-      <p align="justify">
-        At the moment, I am working as a freelancer, developing complete systems for companies in my city, from planning and interface design to implementation and delivery. This hands-on experience has strengthened my problem-solving skills, technical versatility, and ability to understand business needs, while constantly pushing me to grow as a developer and professional.
+      <p>
+        Atualmente crio sistemas completos para clientes locais, cobrindo desde o planejamento visual (UI/UX) até a codificação e implantação final do projeto.
       </p>
     </td>
   </tr>
@@ -45,76 +45,75 @@
 
 <br />
 
-<!-- BOTOES SOCIAL / CONTATO (PINTEREST, LINKEDIN, GMAIL) -->
+<!-- REDES SOCIAIS / CONTATO -->
 <div align="center">
-  <p><b>You can Click here</b></p>
-  <a href="URL_DO_SEU_PINTEREST" target="_blank">
-    <img src="https://img.shields.io/badge/PINTEREST-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
-  </a>
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <p><b>You can click here</b></p>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-D32F2F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121212" alt="LinkedIn" />
   </a>
   <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-D32F2F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=121212" alt="Gmail" />
+  </a>
+  <a href="https://pinterest.com/SEU_PINTEREST" target="_blank">
+    <img src="https://img.shields.io/badge/PINTEREST-D32F2F?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=121212" alt="Pinterest" />
   </a>
 </div>
 
 <br />
 
-<!-- SEÇÃO DE ALERTA / FRASES (CAUTION) COM ÍCONE -->
-<table border="0" style="width: 100%;">
+<!-- BOX DE ALERTA (CAUTION) -->
+<div>
+  <blockquote style="border-left: 4px solid #D32F2F;">
+    <p><b>🚨 Caution</b></p>
+    <p><i>Code is never finished, it only gets better.</i><br>
+    What you see here is built with practice, curiosity, and persistence.</p>
+  </blockquote>
+</div>
+
+<br />
+
+<!-- SEÇÃO DE CONTRIBUIÇÕES DA COMUNIDADE (SNAKE / GRÁFICO AUTOMÁTICO) -->
+<div align="center">
+  <h3><b>My Contributions</b></h3>
+  <!-- Gráfico de atividade nativo gerado automaticamente no tema escuro/vermelho -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=react-dark&bg_color=0d1117&hide_border=true&color=d32f2f&line=d32f2f&point=ffffff" alt="My Contributions Graph" width="100%" />
+</div>
+
+<br />
+
+<!-- TECH STACK & ESTATÍSTICAS -->
+<div align="center">
+  <h3><b>My Tech Stack</b></h3>
+</div>
+
+<p align="center">
+  <!-- Ícones das suas tecnologias (Edite ou remova os que não usa) -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<br />
+
+<!-- CARDS AUTOMÁTICOS DE REPOSITÓRIO E STATS -->
+<table border="0">
   <tr>
-    <td style="border: none;">
-      <blockquote style="border-left: 4px solid red; padding-left: 10px;">
-        <p><b>🚨 Caution</b></p>
-        <p>Code is never finished, it only gets better.</p>
-        <p>What you see here is built with <b>practice, curiosity, and persistence.</b></p>
-      </blockquote>
+    <td width="50%" align="center" valign="top">
+      <!-- Card do seu repositório principal -->
+      <a href="https://github.com/SEU_USUARIO_GITHUB/NOME_DO_SEU_REPOSITORIO_DESTAQUE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=NOME_DO_SEU_REPOSITORIO_DESTAQUE&theme=dark&bg_color=0d1117&border_color=d32f2f&title_color=d32f2f" alt="Pinned Repo" width="100%" />
+      </a>
     </td>
-    <td align="right" width="15%" style="border: none;">
-      <img src="URL_DA_IMAGEM_DA_ADAGA_KNIFE" width="80px" alt="Knife Icon" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- TITULO "MY CONTRIBUTIONS" (BANNER OU BADGE ESTILIZADO) -->
-<div align="center">
-  <img src="URL_DA_IMAGEM_TITULO_MY_CONTRIBUTIONS" alt="My Contributions Header" width="250px" />
-</div>
-
-<br />
-
-<!-- GRÁFICO DE CONTRIBUIÇÕES (SNAKE / GRAPH) -->
-<div align="center">
-  <img src="URL_DO_SEU_GRAFICO_DE_CONTRIBUICOES" alt="Contributions Graph" width="100%" />
-</div>
-
-<br />
-
-<!-- TITULO "MY TECH STACK" & SEÇÃO INFERIOR -->
-<div align="center">
-  <img src="URL_DA_IMAGEM_TITULO_MY_TECH_STACK" alt="My Tech Stack Header" width="250px" />
-</div>
-
-<br />
-
-<!-- QUADRO INFERIOR DE TEKNOLOGIAS E PROFILE STATS -->
-<table border="0" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <!-- GRID DE TECNOLOGIAS (ICONES DE TECNOLOGIA) -->
-    <td width="45%" align="center" style="border: none; vertical-align: top;">
-      <img src="URL_DA_IMAGEM_GRID_DE_TECNOLOGIAS" alt="Tech Stack Icons Grid" width="100%" />
-    </td>
-    
-    <!-- CARD DE PROJETO EM DESTAQUE + STATS -->
-    <td width="55%" align="center" style="border: none; vertical-align: top;">
-      <!-- Card do Projeto / App -->
-      <img src="URL_DO_CARD_DO_PROJETO" alt="Lembre-Plus note app" width="100%" />
-      <br /><br />
-      <!-- Github Stats / Streak -->
-      <img src="URL_DO_CARD_GITHUB_STATS" alt="GitHub Stats & Streak" width="100%" />
+    <td width="50%" align="center" valign="top">
+      <!-- Card com seus dias seguidos codando (Streak Stats) no tema Dark/Red -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=dark&background=0d1117&border=d32f2f&stroke=d32f2f&ring=d32f2f&fire=d32f2f&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
