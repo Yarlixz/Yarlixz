@@ -101,12 +101,12 @@
     <td width="50%" align="center" valign="top">
       <!-- Card do seu repositório principal -->
       <a href="https://github.com/Yarlixz/MatrixSys">
-        <img src="https://i.pinimg.com/736x/89/4d/e1/894de1a354c66747b3cfb0e9425daaa1.jpg" alt="Pinned Repo" width="100%"/>
+        <img src="https://i.pinimg.com/736x/89/4d/e1/894de1a354c66747b3cfb0e9425daaa1.jpg" alt="Pinned Repo" width="70%"/>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <!-- Card com seus dias seguidos codando (Streak Stats) no tema Dark/Red -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yarlixz&theme=dark&background=0d1117&border=d32f2f&stroke=d32f2f&ring=d32f2f&fire=d32f2f&currStreakNum=ffffff" alt="GitHub Streak"   width="80%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yarlixz&theme=dark&background=0d1117&border=d32f2f&stroke=d32f2f&ring=d32f2f&fire=d32f2f&currStreakNum=ffffff" alt="GitHub Streak"   width="10%" />
     </td>
   </tr>
 </table>
