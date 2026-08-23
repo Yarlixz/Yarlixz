@@ -95,6 +95,7 @@
 <!-- TECH STACK & ESTATÍSTICAS -->
 
 <!-- CARDS AUTOMÁTICOS DE REPOSITÓRIO E STATS -->
+<div align="center">
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -109,6 +110,7 @@
     </td>
   </tr>
 </table>
+</div>
 <div align="center">
   <img src="https://i.pinimg.com/736x/f7/dd/8c/f7dd8c72989366b5919469a0b98f15c0.jpg" alt="Adapting..." width="100%" />
 </div>
