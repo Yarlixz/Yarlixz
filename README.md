@@ -69,8 +69,8 @@
 <!-- REDES SOCIAIS / CONTATO -->
 <div align="center">
   <p><b>You can click here</b></p>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-D32F2F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121212" alt="LinkedIn" />
+  <a href="https://instagram.com/yarlijkk" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" alt="LinkedIn" />
   </a>
   <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D32F2F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=121212" alt="Gmail" />
