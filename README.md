@@ -1,6 +1,5 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <!-- Substitua o link abaixo pela imagem do seu banner ou GIF -->
   <img src="https://i.pinimg.com/1200x/fb/59/6d/fb596dbcdcd9429f44608388da7f0c8d.jpg" alt="Adapting..." width="100%" />
 </div>
 
@@ -110,3 +109,6 @@
     </td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://i.pinimg.com/736x/83/c2/b7/83c2b7fe23d181fcdb16770c70c52778.jpg" alt="Adapting..." width="100%" />
+</div>
