@@ -9,10 +9,10 @@
 <!-- BADGES DE ESTATÍSTICAS NATIVAS DO GITHUB -->
 <div align="center">
   <a href="https://github.com/Yarlixz?tab=stars">
-    <img src="https://img.shields.io/github/stars/SEU_USUARIO_GITHUB?style=for-the-badge&color=D32F2F&labelColor=121212&logo=github&logoColor=white" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/Yarlixz?style=for-the-badge&color=D32F2F&labelColor=121212&logo=github&logoColor=white" alt="Stars" />
   </a>
   <a href="https://github.com/Yarlixz?tab=repositories">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO_GITHUB?style=for-the-badge&color=D32F2F&labelColor=121212&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Yarlixz?style=for-the-badge&color=D32F2F&labelColor=121212&logo=github&logoColor=white" alt="Followers" />
   </a>
   <a href="https://github.com/Yarlixz?tab=repositories">
     <img src="https://img.shields.io/badge/FORKS-PUBLIC-D32F2F?style=for-the-badge&labelColor=121212&logo=github&logoColor=white" alt="Forks" />
