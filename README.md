@@ -31,13 +31,13 @@
     <td width="65%" valign="top">
       <h2><b>Who Am I?</b></h2>
       <p>
-        Olá! Sou um <b>Desenvolvedor de Software</b> formado em <b>Análise e Desenvolvimento de Sistemas</b>, atuando como freelancer e constantemente buscando novos aprendizados no ecossistema de tecnologia.
+        I’m a curious and creative person interested in technology, programming, and problem-solving. I enjoy understanding how things work and turning ideas into practical projects.
       </p>
       <p>
-        Tenho forte atuação no ecossistema <b>Web & Front-End</b>, focando em criar interfaces modernas, intuitivas e performáticas. Também desenvolvo aplicações mobile para Android utilizando <b>React Native</b> e <b>Android Studio</b>.
+        I’m currently developing my skills in programming, with a focus on Java, web development, computer science fundamentals, and software projects. I prefer learning through practice, experimentation, and building things from scratch.</b>.
       </p>
       <p>
-        Atualmente crio sistemas completos para clientes locais, cobrindo desde o planejamento visual (UI/UX) até a codificação e implantação final do projeto.
+        My goal is to keep improving as a developer, explore different technologies, and build a portfolio that reflects my technical skills, creativity, and approach to solving problems.
       </p>
     </td>
   </tr>
