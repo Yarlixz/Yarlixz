@@ -46,13 +46,13 @@
 <br />
 
 <div align="center">
-  <h3><b>My Tech Stack</b></h3>
+  <h3><b>TECH ON MY HANDS</b></h3>
 </div>
 
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub" />
-  <img src="https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000" alt="Linux" />
+  <img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" alt="Linux" />
   <img src="https://img.icons8.com/?size=100&id=38389&format=png&color=000000" alt="GIT"/>
   <br>
   <img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" alt="FIGMA" />
