@@ -50,12 +50,11 @@
 </div>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub" />
-  <img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" alt="Linux" />
   <img src="https://img.icons8.com/?size=100&id=38389&format=png&color=000000" alt="GIT"/>
-  <br>
+  <img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" alt="Linux" />
   <img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" alt="FIGMA" />
+  <br>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" />
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" />
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JS"/>
@@ -63,6 +62,7 @@
   <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL" />
   <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="PYTHON" />
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" />
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VS Code" />
 </p>
 
 <br />
@@ -101,7 +101,7 @@
     <td width="50%" align="center" valign="top">
       <!-- Card do seu repositório principal -->
       <a href="https://github.com/Yarlixz/MatrixSys">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yarlixz&repo=MatrixSys&theme=dark&bg_color=0d1117&border_color=d32f2f&title_color=d32f2f" alt="Pinned Repo" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yarlixz&repo=MatrixSys&theme=dark&bg_color=0d1117&border_color=d32f2f&title_color=d32f2f" alt="Pinned Repo" width="100%"/>
       </a>
     </td>
     <td width="50%" align="center" valign="top">
