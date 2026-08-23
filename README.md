@@ -70,13 +70,13 @@
 <div align="center">
   <p><b>You can click here</b></p>
   <a href="https://instagram.com/yarlijkk" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" alt="LinkedIn" />
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="INSTA" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D32F2F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=121212" alt="Gmail" />
+  <a href="mailto:yarlisontomaz.nr@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail" />
   </a>
-  <a href="https://pinterest.com/SEU_PINTEREST" target="_blank">
-    <img src="https://img.shields.io/badge/PINTEREST-D32F2F?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=121212" alt="Pinterest" />
+  <a href="https://open.spotify.com/playlist/1YgmK8E4ra8BGubDGwQrLR?pt=5df03b04b2c4eda643f65b6fb2ab8525" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=G9XXzb9XaEKX&format=png&color=000000" alt="Spotify" />
   </a>
 </div>
 
