@@ -51,6 +51,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
+  <img src="https://img.shields.io/badge/Linux-D32F2F?style=for-the-badge&logo=linux&logoColor=white&labelColor=121212" alt="Linux" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" />
   <br>
