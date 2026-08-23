@@ -29,7 +29,7 @@
       <img src="https://i.pinimg.com/736x/31/20/93/3120932c0f9454d4b97cd1acf50efe1a.jpg" width="450px" alt="Logo" />
     </td>
     <td width="65%" valign="top">
-      <h2><b>Who Am I?</b></h2>
+      <h2><b>𝕎𝕙𝕠 𝔸𝕞 𝕀?</b></h2>
       <p>
         I’m a curious and creative person interested in technology, programming, and problem-solving. I enjoy understanding how things work and turning ideas into practical projects.
       </p>
