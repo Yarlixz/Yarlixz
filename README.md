@@ -49,7 +49,9 @@
 </div>
 
 <p align="center">
+  <a src="https://www.linux.org/" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub" />
+  </a>
   <img src="https://img.icons8.com/?size=100&id=38389&format=png&color=000000" alt="GIT"/>
   <img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" alt="Linux" />
   <img src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" alt="FIGMA" />
